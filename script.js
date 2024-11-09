@@ -1,6 +1,6 @@
 window.onload = function() {
 async function fetchdata(query) {
-    const API_KEY = "7d69dcc451e84443aaec300aeb7a0a6a";
+    const API_KEY = "0ba851d9606b46d89754bfaa2dfe3178";
     const URL = `https://newsapi.org/v2/everything?q=${query}&language=en&apiKey=${API_KEY}`
     try {
         document.querySelector(".home_card").innerHTML = `<div class="d-flex justify-content-center">
