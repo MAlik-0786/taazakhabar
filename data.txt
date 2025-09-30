@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 47749,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Lawrence Bonk",
+      "title": "iOS 18.2 will include daily Sudoku puzzles for Apple News+ subscribers",
+      "description": "The long-anticipated iPhone iOS 18.1 officially launches next week\r\n, bringing with it Apple Intelligence\r\n, but we are already on to the next new thing. The company is busy preparing iOS 18.2\r\n, which has already entered its beta stage and should be widely r…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7d792da3-893e-4d23-a5d9-4bce6937dc26",
+      "urlToImage": null,
+      "publishedAt": "2024-10-25T16:51:16Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Will Shanklin",
+      "title": "Apple Intelligence is coming to EU iPhones and iPads in April",
+      "description": "Folks in the European Union finally know when Apple Intelligence will be available on their mobile devices. Apple told EU users on Monday that its AI suite will arrive in April 2025. The first Apple Intelligence features, including Writing Tools and AI notifi…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9e418204-613e-41ea-849e-1acac15729e7",
+      "urlToImage": null,
+      "publishedAt": "2024-10-28T19:10:28Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-17T16:30:48Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "Apple iPad Mini 2024 review: missing pieces",
+      "description": "It gets an A17 Pro chip, Apple Pencil support, and the ability to run Apple Intelligence. But it’s hard to figure out why you’d want this iPad over any other.",
+      "url": "https://www.theverge.com/2024/10/22/24275956/apple-ipad-mini-2024-review",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xUs9owo4ktDQ17MKWxO0VDatFAM=/0x0:4240x2832/1200x628/filters:focal(2337x1316:2338x1317)/cdn.vox-cdn.com/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg",
+      "publishedAt": "2024-10-22T13:00:00Z",
+      "content": "Apple’s smallest tablet got an upgrade — but it won’t feel like much of one unless Apple Intelligence is better than it seems. I should confess right up front that I have always loved the iPad Mini. … [+9782 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-16T22:39:13Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-23T12:30:46Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-29T11:16:45Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Will Shanklin",
+      "title": "Everything Apple announced during its unofficial Mac Week",
+      "description": "Following the illustrious line of calendar-spanning corporate events like Lobsterfest and Shark Week, Apple tried something new this year with a celebration unofficially known as Mac Week. (Fortunately for Apple, it just so happens to coincide with its earnin…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c32e977d-97fc-463b-bc24-4576a92cbe19",
+      "urlToImage": null,
+      "publishedAt": "2024-10-30T21:01:15Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-07T22:08:55Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-28T15:12:51Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-30T20:45:49Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kris Holt",
+      "title": "Apple unveils its top-of-the-line M4 Max chip",
+      "description": "Apple is continuing its week of announcements by revealing the latest MacBook Pro lineup, as well as its new top-of-the-line chip. The M4 Max has a 40-core GPU — double the number of cores found in the M4 Pro\r\n that the company revealed this week. It has a 16…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0158981c-d68b-4ed0-8507-1fdc9277bfed",
+      "urlToImage": null,
+      "publishedAt": "2024-10-30T15:02:41Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Billy Steele",
+      "title": "Apple Music helps artists turn concert set lists into playlists",
+      "description": "There's a certain level of fandom you hit when you research a band's tour set list before they come to your city. And some of us like to relive great concerts with some quick research on setlist.fm. The next logical step, once we're armed with this informatio…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7ea2282d-108d-445c-b4b9-8c1fd169551d",
+      "urlToImage": null,
+      "publishedAt": "2024-10-17T13:39:16Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-25T20:42:41Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sarah Fielding",
+      "title": "The Apple Watch Series 10 is $30 off right now",
+      "description": "If you've been looking to upgrade your smartwatch, now might be the right time. Our favorite smartwatch, the Apple Watch Series 10, is currently on sale with the 42mm model down to $370 from $399 in Jet Black. The 46mm model is down to $399 from $429 and avai…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f526221b-5734-4c33-a38f-ebd9034bb694",
+      "urlToImage": null,
+      "publishedAt": "2024-10-24T13:30:27Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kris Holt",
+      "title": "Apple Intelligence starts rolling out with iOS 18.1 and macOS 15.1",
+      "description": "The wait is finally over. Apple Intelligence is making its proper debut with the public releases of iOS 18.1, iPadOS 18.1 and macOS Sequoia 15.1. Typically, point-one versions of Apple operating systems add minor features and fix bugs, but the Apple Intellige…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6af3306f-73b8-42a8-8b5b-6114e6e7025e",
+      "urlToImage": null,
+      "publishedAt": "2024-10-28T15:10:23Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-10T23:01:41Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-08T07:27:21Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-29T15:05:49Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Kyle Orland, Ars Technica",
+      "title": "Apple Engineers Show How Flimsy AI ‘Reasoning’ Can Be",
+      "description": "The new frontier in large language models is the ability to “reason” their way through problems. New research from Apple says it's not quite what it's cracked up to be.",
+      "url": "https://www.wired.com/story/apple-ai-llm-reasoning-research/",
+      "urlToImage": "https://media.wired.com/photos/670eb29ca88ac76b34d258c1/191:100/w_1280,c_limit/apple-llm-fail-biz.jpg",
+      "publishedAt": "2024-10-15T11:00:00Z",
+      "content": "For a while now, companies like OpenAI and Google have been touting advanced \"reasoning\" capabilities as the next big step in their latest artificial intelligence models. Now, though, a new study fro… [+4477 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Christopher Null",
+      "title": "Apple iMac (M4, 2024) Review: Small but Worthwhile Upgrades",
+      "description": "It’s round four for the iMac on Apple silicon. Turns out the first time was the charm, but this one’s great too.",
+      "url": "https://www.wired.com/review/apple-imac-m4-2024/",
+      "urlToImage": "https://media.wired.com/photos/672cdcd8fec96cdc5de27920/191:100/w_1280,c_limit/mac-gear.jpg",
+      "publishedAt": "2024-11-07T15:51:25Z",
+      "content": "The iMac M4 still features multiple variants, starting with the $1,299 model that includes an 8-core CPU, 8-core GPU, 16 GB of RAM, and 256 GB of storageand just two USB-C Thunderbolt 4 ports. (Sorry… [+2919 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-07T14:00:42Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "Apple News will let you watch election results from your lockscreen",
+      "description": "On Election Day in the US, Apple News is rolling out live results to lockscreens.",
+      "url": "https://www.theverge.com/2024/11/5/24288777/election-results-apple-news-lock-screen",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ClkCB_h7ezkPo-bmQ9twzhBOHc4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25697390/STK071_APPLE_H.jpg",
+      "publishedAt": "2024-11-05T16:34:12Z",
+      "content": "Image: Cath Virginia / The Verge\r\n\n \n\n For anyone obsessively watching election results in the US, Apple News will bring live updates to iPhone and iPad users’ lockscreens. And if you’ve got a recent… [+950 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-28T13:39:07Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Christopher Null",
+      "title": "Apple AirPods Pro 2 With Hearing Aid Feature Review: A Promising Step",
+      "description": "Apple takes on hearing loss, and its first product is a big step in the right direction.",
+      "url": "https://www.wired.com/review/apple-airpods-pro-2-with-hearing-aid-feature/",
+      "urlToImage": "https://media.wired.com/photos/671577232009d044328f83e0/191:100/w_1280,c_limit/AirPods%20Pro%202%20Abstract%20Background%20102024%20SOURCE%20Apple.jpg",
+      "publishedAt": "2024-10-21T11:00:00Z",
+      "content": "You can make some of these adjustments by manipulating the stems of the earbuds, which now have even more functions to master. These hardware operations can be finicky, and in almost every situation,… [+1764 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Apple Intelligence Isn’t Driving iPhone 16 Sales the Way Apple Hoped, Analyst Says",
+      "description": "An analyst claims Apple cut production for 10 million iPhone 16 units, despite Apple Intelligence's full launch next year.",
+      "url": "https://gizmodo.com/apple-intelligence-iphone-16-sales-2000515926",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/iPhone-16-Review-Hero.jpg",
+      "publishedAt": "2024-10-24T13:35:20Z",
+      "content": "The baseline iPhone 16 is already the most capable Apple non-Pro smartphone ever. It has all the same extra buttons, like Camera Control and the Action Button, that the iPhone 16 Pro has. It can capt… [+3610 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Tim Cook Knows Apple Isn’t First in AI but Says ‘It’s About Being the Best’",
+      "description": "Apple reportedly conducted internal studies showing Apple Intelligence is two years behind ChatGPT, but that may not matter.",
+      "url": "https://gizmodo.com/tim-cook-knows-apple-isnt-first-in-ai-but-says-its-about-being-the-best-2000514347",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Tim-Cook-iPhone-16-Apple-Intelligence-2.jpg",
+      "publishedAt": "2024-10-21T14:48:07Z",
+      "content": "Ricky Bobby from the 2006 film Talladega Nights would find Apples belated rollout of Apple Intelligence a sure sign of failure. If you aint first, youre last, he’d say to Apple CEO Tim Cook. In the m… [+4653 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "A new iMessage safety feature prompts kids to report explicit images to Apple",
+      "description": "Apple is adding a new child safety feature to iMessage that lets kids send a report to Apple when they are sent photos or videos with nudity, according to The Guardian. After getting a report, the company can choose report messages to law enforcement.",
+      "url": "https://www.theverge.com/2024/10/24/24278526/apple-imessage-safety-feature-prompts-kids-report-explicit-images",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qKdCWJQesHoFeSnIlYc1aKGH5LA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24402139/STK071_apple_K_Radtke_03.jpg",
+      "publishedAt": "2024-10-24T16:39:12Z",
+      "content": "A new iMessage safety feature prompts kids to report explicit images to Apple\r\nA new iMessage safety feature prompts kids to report explicit images to Apple\r\n / When children receive images or videos… [+2414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Tom Maxwell",
+      "title": "Apple and Goldman Sachs Hit With $89 Million Fine Over Inept Apple Card Introduction",
+      "description": "The Consumer Financial Protection Bureau says Apple and Goldman Sachs failed to properly handle disputes, other issues.",
+      "url": "https://gizmodo.com/apple-and-goldman-sachs-hit-with-89-million-fine-over-inept-apple-card-introduction-2000515590",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/GettyImages-1132776908.jpg",
+      "publishedAt": "2024-10-23T17:10:50Z",
+      "content": "Apple and Goldman Sachs were hit with over $89 million in fines on Wednesday over technical issues related to the Apple Card. The Consumer Financial Protection Bureau (CFPB) brought the action.\r\nAppl… [+4080 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Anna Washenko",
+      "title": "The Apple Pencil Pro is 30 percent off, taking it down to an all-time low price",
+      "description": "Apple doesn't offer many discounts for its product lineup, so seeing one of its tablet accessories on sale for a third off the usual cost is exciting. The Apple Pencil Pro is available on Amazon for just $90, the lowest price we've seen for it. This is the mo…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2711bbdf-0325-4496-a71b-8ef9816078e3",
+      "urlToImage": null,
+      "publishedAt": "2024-10-15T21:03:11Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sarah Fielding",
+      "title": "iOS 18.1 launches next week with Apple Intelligence and AirPods Pro hearing tests and aids",
+      "description": "Apple iOS 18.1 is officially coming next week, bringing hearing aid software for the AirPods Pro 2 and Apple Intelligence across devices, multiple sources report, including The Wall Street Journal and Tech Crunch. The company previously released a beta versio…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_53f156c9-a116-4dee-b151-0e8462185bfe",
+      "urlToImage": null,
+      "publishedAt": "2024-10-21T13:46:17Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kris Holt",
+      "title": "Apple's 9th-gen iPad returns to an all-time low of $199 for October Prime Day",
+      "description": "Prime Day is here and we've been busy rounding up the best deals we can find. There's an iPad offer in particular that matches one we've seen before, but it's definitely worth highlighting. The 9th-gen iPad has dropped back down to $199, which matches a recor…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bcc66f34-03a5-480d-96c1-25b265eef0af",
+      "urlToImage": null,
+      "publishedAt": "2024-10-09T19:29:33Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-07T14:00:57Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "An ‘Exciting Week’ of Apple News Will Likely Bring Us the Rumored M4 MacBook",
+      "description": "Apple says next week we could see a M4 MacBook and a whole host of new M4-based hardware to support Apple Intelligence.",
+      "url": "https://gizmodo.com/an-exciting-week-of-apple-news-will-likely-bring-us-the-rumored-m4-macbook-2000516169",
+      "urlToImage": "https://gizmodo.com/app/uploads/2023/11/70cb95a8bc74fa0d4722dcc1e70cd27b-e1729790869301.jpg",
+      "publishedAt": "2024-10-24T18:30:43Z",
+      "content": "Next week will be a big one for Apple. Hot off the presses with its 7th-gen iPad mini, the Cupertino, California company is about to debut an exciting week of announcements starting Monday. Whatever … [+2663 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Don’t buy at the Apple Store; Amazon is slashing prices on MacBook Pros for Prime Day",
+      "description": "Apple hates discounts!",
+      "url": "https://gizmodo.com/dont-buy-at-the-apple-store-amazon-is-slashing-prices-on-macbook-pros-for-prime-day-2000509179",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/macbookpro-2023.jpg",
+      "publishedAt": "2024-10-08T16:01:59Z",
+      "content": "Amazon has kicked off Prime Day with a bang and unveiled incredible deals on the latest MacBook Pro models this Tuesday morning. Apple fans will be thrilled to discover that the 2023 MacBook Pro line… [+2403 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Almost Free AirPods Pro 2? Amazon’s Prime Day Deal is Getting Closer to That Reality",
+      "description": "Amazon versus Apple!",
+      "url": "https://gizmodo.com/almost-free-airpods-pro-2-amazons-prime-day-deal-is-getting-closer-to-that-reality-2000509552",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/airpods-pro-2.jpg",
+      "publishedAt": "2024-10-09T12:40:58Z",
+      "content": "Apple’s AirPods Pro 2 have become the talk of the town during this year’s October Prime Day event with Amazon offering a massive discount on these premium wireless earbuds. Initially priced at $249, … [+2782 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Brenda Stolyar",
+      "title": "Mac Mini (2024): Specs, Release Date, Price, Features",
+      "description": "This desktop computer has its first design change since 2010, with a smaller footprint, vents at the bottom, and ports on the front.",
+      "url": "https://www.wired.com/story/apple-mac-mini-2024/",
+      "urlToImage": "https://media.wired.com/photos/672053fafe5589c5d79e9f90/191:100/w_1280,c_limit/Gear_Apple-Mac-mini-front-facing-ports-pink.jpg",
+      "publishedAt": "2024-10-29T15:00:00Z",
+      "content": "There's Shark Week, and then there's Mac Week. It's a little less exciting, but Apple first announced a new iMac yesterday, and today we're being treated to a new Mac Mini. Tomorrow, there's a good c… [+2268 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Cherlynn Low",
+      "title": "Apple Intelligence expands in iOS 18.2 developer beta, adding Genmoji, Visual Intelligence and ChatGPT",
+      "description": "The Apple Intelligence rollout has been slow, staggered and steady since the company first unveiled its take on AI at WWDC this year. It continues today with the release of the latest developer betas for iOS 18, iPadOS 18 and macOS Sequoia. The updates in iOS…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_873aa1d2-5373-4074-9d74-a4b609ae3fdc",
+      "urlToImage": null,
+      "publishedAt": "2024-10-23T17:09:20Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-27T21:04:12Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-31T13:15:01Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "The OnePlus Pad is cheaper than ever and comes with a free magnetic keyboard",
+      "description": "OnePlus is selling the OnePlus Pad for $359.99 with a free magnetic keyboard. Amazon’s Smart Thermostat and the USB-C Apple Pencil are also on sale.",
+      "url": "https://www.theverge.com/2024/10/16/24270849/oneplus-pad-amazon-smart-thermostat-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/q6NYMVwsOkSC_9UJcuxsqIsnFhs=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24616039/oneplus_pad_6.jpg",
+      "publishedAt": "2024-10-16T15:38:21Z",
+      "content": "The OnePlus Pad is cheaper than ever and comes with a free magnetic keyboard\r\nThe OnePlus Pad is cheaper than ever and comes with a free magnetic keyboard\r\n / We also found deals on the Amazon Smart … [+3298 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Antonio G. Di Benedetto",
+      "title": "All the news from Apple’s ‘week’ of Mac announcements",
+      "description": "Apple is announcing an M4 MacBook Pro, an M4 iMac, and a redesigned M4 Mac Mini. Here’s all the news on Apple’s latest Macs.",
+      "url": "https://www.theverge.com/24279307/apple-mac-m4-updates-news-announcements",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/leY81221X3PjSymyEVG7k6RKfb8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25697396/STK071_APPLE_M.jpg",
+      "publishedAt": "2024-10-28T10:00:00Z",
+      "content": "New Macs are coming. Apple has teased a week of announcements around the Mac starting on Monday, October 28th. And after months of leaks, we have a pretty good idea of whats in the cards.\r\nApple is l… [+7161 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "A first look at Apple’s redesigned Mac Mini and its other new Macs",
+      "description": "Apple has officially announced its M4-equipped Mac Minis, iMacs, and MacBook Pros, and we were able to take photos of the new computers.",
+      "url": "https://www.theverge.com/2024/10/30/24283861/apple-redesigned-mac-mini-macbook-pro-imac-m4-photos",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/F8dk3-nYCIV4ini-dVFFXi1_wQI=/0x0:2040x1361/1200x628/filters:focal(1020x681:1021x682)/cdn.vox-cdn.com/uploads/chorus_asset/file/25706946/214A8906.jpg",
+      "publishedAt": "2024-10-30T19:30:00Z",
+      "content": "A first look at Apples redesigned Mac Mini and its other new Macs\r\nA first look at Apples redesigned Mac Mini and its other new Macs\r\n / The Mac Mini is indeed very mini.\r\nByJay Peters, a news editor… [+1212 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Apple is preparing an M4 MacBook Air update for early next year",
+      "description": "Apple plans to release MacBook Airs with M4 chips in early 2025. The company is also working on an M4 Mac Studio for sometime in 2025, too.",
+      "url": "https://www.theverge.com/2024/10/23/24277876/apple-m4-macbook-air-update",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/FgQBJPicKhQ51umT273aTD89LoE=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25333661/247043_Apple_MacBook_Air_2024_AKrales_0200.jpg",
+      "publishedAt": "2024-10-23T19:17:56Z",
+      "content": "Apple is preparing an M4 MacBook Air update for early next year\r\nApple is preparing an M4 MacBook Air update for early next year\r\n / Apple is rumored to update many of its computers next week, but th… [+1535 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Apple put the Magic Mouse’s charging port on the bottom again",
+      "description": "Apple just announced a new version of the Magic Mouse, and it still has the charging port on the underside of the device.",
+      "url": "https://www.theverge.com/2024/10/28/24276043/apple-new-usb-c-magic-mouse-charging-port-bottom",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/BIixQ1Q-A0AX1thL1K-yyzOX-QY=/0x0:1590x994/1200x628/filters:focal(888x442:889x443)/cdn.vox-cdn.com/uploads/chorus_asset/file/25703120/Screenshot_2024_10_28_at_11.33.03_AM.png",
+      "publishedAt": "2024-10-28T15:42:23Z",
+      "content": "Yup, it’s still there. | Image: Apple\r\n\n \n\n Apple’s new USB-C-equipped Magic Mouse somehow still has the charging port on the bottom. While Apple could have used the launch as an opportunity to move … [+788 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Matter 1.4 tries to set the smart home standard back on track",
+      "description": "Matter 1.4, the latest specification for the Apple, Amazon, and Google-backed standard, brings improvements to interoperability and enables energy management solutions.",
+      "url": "https://www.theverge.com/2024/11/7/24289972/matter-smart-home-standard-1-4-spec-new-features-device-types",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Xvz8zdXWaT8ru4FUKi4BsIC5am8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24087547/STK138_Matter_K_Radtke_02.jpg",
+      "publishedAt": "2024-11-07T13:00:00Z",
+      "content": "Matter 1.4 tries to set the smart home standard back on track\r\nMatter 1.4 tries to set the smart home standard back on track\r\n / The new spec brings much-needed fixes for interoperability and Thread … [+14845 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Dua Rashid",
+      "title": "Apple Magic Mouse, Trackpad, and Keyboard Are Finally Getting a Long-Awaited Refresh",
+      "description": "It's about time Apple works on its most criticized products.",
+      "url": "https://gizmodo.com/apple-magic-mouse-trackpad-and-keyboard-are-finally-getting-a-long-awaited-refresh-2000514928",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/apple-magic-mouse.jpg",
+      "publishedAt": "2024-10-22T15:52:37Z",
+      "content": "According to some code found in the iOS 18.1 release candidate (via MacRumors), Apple may soon launch new versions of its infamous Magic Mouse, Magic Trackpad, and Magic Keyboard. It’s about damn tim… [+2304 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Just Before Black Friday, Amazon is Slashing Prices on The New MacBook Air With The XL 15-Inch Display",
+      "description": "Amazon Slashes Prices on the Latest Apple Ultrabook.",
+      "url": "https://gizmodo.com/just-before-black-friday-amazon-is-slashing-prices-on-the-new-macbook-air-with-the-xl-15-inch-display-2000520066",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/macbook-air-m3.jpg",
+      "publishedAt": "2024-11-03T22:25:07Z",
+      "content": "Launched in March, the latest 256GB MacBook Air M3 15-inch is making waves this early Black Friday with a great deal on Amazon. Currently priced at $1,091 down from its original price of $1,299 for t… [+2539 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Amazon Crushes iPad Prices by 40%, Hitting Apple Hard on Day Two of Prime Day",
+      "description": "A 40% reduction on an Apple product is historic.",
+      "url": "https://gizmodo.com/amazon-crushes-ipad-prices-by-40-hitting-apple-hard-on-day-two-of-prime-day-2000509556",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/ipad-9th.jpg",
+      "publishedAt": "2024-10-09T12:48:51Z",
+      "content": "Amazon’s Prime Day event has reached its final hours and the e-commerce giant is pulling out all the stops with an unprecedented offer on the 9th generation iPad.\r\nThe 9th generation iPad is original… [+2077 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "2024 MacBook Air Heavily Discounted on Prime Day: How Could Apple Allow Amazon to Do This?",
+      "description": "Apple must be pulling its hair out over this promotion.",
+      "url": "https://gizmodo.com/2024-macbook-air-heavily-discounted-on-prime-day-how-could-apple-allow-amazon-to-do-this-2000509590",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/macbook-air-m3.jpg",
+      "publishedAt": "2024-10-09T11:35:49Z",
+      "content": "As Amazon’s Prime Day event reaches its final hours today, an unprecedented deal on Apple’s latest MacBook Air (2024!) has taken center stage. This offer stands out not only for its substantial 20% d… [+2708 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "One Day After Prime Day, Amazon Crushes iPad Prices by 40%",
+      "description": "A 40% reduction on an Apple product is historic.",
+      "url": "https://gizmodo.com/amazon-crushes-ipad-prices-by-40-hitting-apple-hard-prime-day-2000509556",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/ipad-9th.jpg",
+      "publishedAt": "2024-10-10T12:24:51Z",
+      "content": "The 9th generation iPad is originally priced at $329 is now available for an astounding $199. This is a massive 40% discount which brings the price of this versatile tablet to its lowest point ever. … [+1493 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Apple Can Be Upset, Amazon Just Announced 40% Off on One of Its Top iPads For Early Black Friday",
+      "description": "A 40% discount on an Apple product is unheard of.",
+      "url": "https://gizmodo.com/apple-can-be-upset-amazon-just-announced-40-off-on-one-of-its-top-ipads-for-early-black-friday-2000521957",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/ipad-9th.jpg",
+      "publishedAt": "2024-11-08T13:40:53Z",
+      "content": "This morning, Amazon has unleashed an incredible early Black Friday deal that’s sure to turn heads: the Apple iPad 9th generation is now available for just $199 down from its original price of $329. … [+2171 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-29T15:00:16Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-04T12:52:11Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-06T15:59:39Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-30T16:45:20Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Quentyn Kennemer",
+      "title": "Here’s where you can preorder Apple’s colorful M4 iMac (and what’s included)",
+      "description": "The new M4-based iMac doesn’t launch until November 8, but you can already preorder it starting at $1,299. Here’s what you should know about the various configurations.",
+      "url": "https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/HSS-ceWx4hofzOmjNARnTnvb_j8=/0x0:1646x1097/1200x628/filters:focal(823x549:824x550)/cdn.vox-cdn.com/uploads/chorus_asset/file/25703112/Apple_iMac_M4_lifestyle_24_inch_Retina_display.jpg",
+      "publishedAt": "2024-10-28T17:48:41Z",
+      "content": "Heres where you can preorder Apples colorful M4 iMac (and whats included)\r\nHeres where you can preorder Apples colorful M4 iMac (and whats included)\r\n / The new all-in-one will arrive on November 8th… [+2918 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joe Tilleli",
+      "title": "Beat the Black Friday Rush with This MacBook Pro at Its Lowest Price Ever",
+      "description": "Apple rarely offers discounts, so this deal won’t last long—act fast before it’s gone",
+      "url": "https://gizmodo.com/beat-the-black-friday-rush-with-this-macbook-pro-at-its-lowest-price-ever-2000513532",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Untitled-design-12.jpg",
+      "publishedAt": "2024-10-18T14:25:36Z",
+      "content": "Amazon Prime Big Deals Days has already come to pass. This is Amazon’s big seasonal savings even where you can find tons of different products on sale for massive discounts across all categories. Fro… [+2426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Four Days After Prime Day, Amazon Slashes The Price Of AirPods Max To A Record Low",
+      "description": "At less than $400, this Apple headset is an excellent bargain.",
+      "url": "https://gizmodo.com/four-days-after-prime-day-amazon-slashes-the-price-of-airpods-max-to-a-record-low-2000511566",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/airpods-max-apple.jpg",
+      "publishedAt": "2024-10-13T11:15:55Z",
+      "content": "As the autumn leaves begin to fall and the crisp October air settles in, Amazon has decided to extend its Prime Day festivities and offers a great opportunity for audiophiles. This Sunday, a particul… [+2289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Mike Fazioli",
+      "title": "This Grade A Refurbished MacBook Air Is Cheaper Than Your iPad and Delivers Outstanding Performance",
+      "description": "StackSocial's 74%-off deal on this Grade A refurbished Apple laptop is a true steal.",
+      "url": "https://gizmodo.com/this-grade-a-refurbished-macbook-air-is-cheaper-than-your-ipad-and-delivers-outstanding-performance-2000513831",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MacBook-Air-2017.jpg",
+      "publishedAt": "2024-10-19T12:17:03Z",
+      "content": "Apple loves to talk about the laptop-like experience of the iPad, and they make an excellent case because the iPad is an amazing tablet. But why spend $1,300 on a new 13-inch iPad Pro when you can bu… [+2193 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joe Tilleli",
+      "title": "Hard to See This Discount on Apple’s Monitor, But Here It Is for Over $250 Off for Prime Day",
+      "description": "Save 16% on the Apple Studio Display with standard glass and a tilt-adjustable stand.",
+      "url": "https://gizmodo.com/hard-to-see-this-discount-on-apples-monitor-but-here-it-is-for-over-250-off-for-prime-day-2000509399",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/AppleStudioDisplay.jpg",
+      "publishedAt": "2024-10-08T20:08:17Z",
+      "content": "Come one, come all it’s time to celebrate the finest of holidays and that is Prime Day. The one time of year (except its actually multiple times a year) that we all come together to spend money on pr… [+2221 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joe Tilleli",
+      "title": "This Apple MacBook Air Has Never Been Cheaper, No Need to Wait for Black Friday",
+      "description": "Save 30% on the 2022 Apple MacBook Air powered by the M2 chip.",
+      "url": "https://gizmodo.com/this-apple-macbook-air-has-never-been-cheaper-no-need-to-wait-for-black-friday-2000516186",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MacBook.jpg",
+      "publishedAt": "2024-10-24T18:15:25Z",
+      "content": "Scattered throughout the year, we have our big days for deals we’ve come to expect. Black Friday is a big one, but even after that we have Cyber Monday. Then there are the government holidays like La… [+1762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joe Tilleli",
+      "title": "A Grade-A Refurbished MacBook Air Costs the Same as Apple AirPods Pro",
+      "description": "The Apple MacBook Air (Grade-A refurbished) is going for just $250 (74% off) at StackSocial.",
+      "url": "https://gizmodo.com/a-grade-a-refurbished-macbook-air-costs-the-same-as-apple-airpods-pro-2000520736",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/MacGradeA.jpg",
+      "publishedAt": "2024-11-05T18:34:49Z",
+      "content": "Black Friday is only a few short weeks away. It’s a great weekend to get your gift shopping for the upcoming holidays finished or to just treat yourself to some new tech you’ve had your eye on for aw… [+2113 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "It Isn’t Free, But The MacBook Air is Available at Ridiculous Prices For Prime Day",
+      "description": "Apple certainly did not approve this massive promotion on the MacBook Air M2.",
+      "url": "https://gizmodo.com/it-isnt-free-but-the-macbook-air-is-available-at-ridiculous-prices-for-prime-day-2000508735",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/mba-m2.jpg",
+      "publishedAt": "2024-10-08T22:25:11Z",
+      "content": "Amazon has launched an unprecedented deal on the MacBook Air M2 for Prime Day which kicks off today and will last for 48 hours. The e-commerce giant has slashed the price of this laptop to an all-tim… [+2489 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Dua Rashid",
+      "title": "Apple Intelligence Is Set to Make Your Attention Span Even Shorter",
+      "description": "These are all the Apple Intelligence features coming to iPhone on October 28.",
+      "url": "https://gizmodo.com/apple-intelligence-is-set-to-make-your-attention-span-even-shorter-2000510763",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/iphone-16.jpg",
+      "publishedAt": "2024-10-15T19:34:33Z",
+      "content": "One of the biggest blows to our attention spans happened when content started being squeezed into 10-second TikToks, Reels, and Snaps. That gradually made watching long-form content fairly difficult.… [+3074 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Beats Solo 4 at 50% Off: Did Amazon Get Apple’s Approval for This Insane Price?",
+      "description": "These Apple-owned headphones are the best you can get for under $100.",
+      "url": "https://gizmodo.com/beats-solo-4-at-50-off-did-amazon-get-apples-approval-for-this-insane-price-2000519375",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/beats-solo-4-2.jpg",
+      "publishedAt": "2024-11-02T12:40:58Z",
+      "content": "Amazon has launched what appears to be an early Black Friday sale and offers the recently released Beats Solo 4 headphones at an incredible $99 down from their regular price of $199. This 50% discoun… [+2037 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Ticketmaster will start using Apple Wallet’s more useful tickets this month",
+      "description": "Ticketmaster announced that it will be the first ticketing company to use Apple’s upgraded Apple Wallet tickets for iOS 18. The first event to use the tickets will be an October 19th Los Angeles Football Club game.",
+      "url": "https://www.theverge.com/2024/10/10/24267269/ticketmaster-apple-wallet-new-tickets",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ogn1mVbYQv9S5xK9iYeuplQo7Es=/0x0:2048x1150/1200x628/filters:focal(1024x575:1025x576)/cdn.vox-cdn.com/uploads/chorus_asset/file/25670129/Apple_Wallet_B2B_Blog_Header_204.jpg",
+      "publishedAt": "2024-10-10T21:56:13Z",
+      "content": "Image: Ticketmaster\r\n\n \n\n Ticketmaster announced today that it will be the first ticketing company to use Apple’s upgraded Apple Wallet tickets for iOS 18. With the improved tickets, you’ll be able t… [+751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Dua Rashid",
+      "title": "Future Apple Watches Could Have Sensors Embedded in the Bands",
+      "description": "These sensors would be able to track things like blood pressure, and respiration rate measurements.",
+      "url": "https://gizmodo.com/future-apple-watches-sensors-embedded-in-the-bands-2000521187",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/apple-watch.jpg",
+      "publishedAt": "2024-11-06T20:46:03Z",
+      "content": "Apple recently realized it could make its watch even smarter by adding sensors to the band and the dial. A recent report reveals that the Cupertino company was granted 38 patents on November 5, 2024,… [+2326 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joe Tilleli",
+      "title": "Score the Apple iPad Mini at a Record Low Price on Amazon, Cheaper Than In-Store",
+      "description": "The Apple iPad Mini makes for a solid tablet and is a solid 30% off over at Amazon",
+      "url": "https://gizmodo.com/score-the-apple-ipad-mini-at-a-record-low-price-on-amazon-cheaper-than-in-store-2000515720",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/AppleiPadMini.jpg",
+      "publishedAt": "2024-10-23T19:46:43Z",
+      "content": "The gift-giving holidays at the end of the year are quickly approaching. We’re roughly just two months out and those are going to go by faster than you think. Before you know it, it’ll only be days a… [+2033 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-05T14:10:26Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joe Tilleli",
+      "title": "Prime Day May Be Over But These Apple AirTags Are Still 19% off",
+      "description": "Get an individual Apple AirTag for $25 or four for just $80 even though Prime Day has come and gone.",
+      "url": "https://gizmodo.com/prime-day-may-be-over-but-these-apple-airtags-are-still-19-off-2000510521",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/AirTag.jpg",
+      "publishedAt": "2024-10-10T16:53:02Z",
+      "content": "Prime Day has come in gone. If you’ve been asleep, away from your computer for the past two days, then you may have woken up thinking you’ve missed your big chance to save some cash on gadgets and gi… [+2165 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Apple’s iOS 18.2 Is Out in Beta, Finally Lets You Make Junk AI Emojis",
+      "description": "The next slice of Apple Intelligence is available for anybody who wants to download the developer beta of iOS 18.2.",
+      "url": "https://gizmodo.com/apples-ios-18-2-is-out-in-beta-finally-lets-you-make-junk-ai-emojis-2000515736",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/06/1ac94a65354f73ce9d9d4f6aa98c5f2c-e1729709735606.jpg",
+      "publishedAt": "2024-10-23T19:40:50Z",
+      "content": "Even though iOS 18.1, iPadOS 18.1 and macOS 15.1 have not even taken their first step out the door, theres already the next big thing for Apple Intelligence on the horizon. The next step on the Cuper… [+3542 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Germain Lussier",
+      "title": "Silo Season 2 Debuts in November, and Here’s Your First Look",
+      "description": "Rebecca Ferguson and Common star in the Apple TV+ sci-fi show based on the Hugh Howey book trilogy.",
+      "url": "https://gizmodo.com/silo-season-2-trailer-release-date-apple-sdcc-2024-2000478709",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Silo_Season2.jpg",
+      "publishedAt": "2024-10-14T14:00:36Z",
+      "content": "Silo season one ended with a cliffhanger to end all cliffhangers. It desperately made you want to see what was next for Juliette (Rebecca Ferguson) as she discovered everything she thought she knew w… [+1493 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Whether a Mistake or Not, Amazon Keeps The Prime Day AirTags Deal Alive",
+      "description": "This amazing offer on Apple AirTags is available for both the single unit and the four-pack.",
+      "url": "https://gizmodo.com/whether-a-mistake-or-not-amazon-keeps-the-prime-day-airtags-deal-alive-2000511758",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/airtag-apple.jpg",
+      "publishedAt": "2024-10-14T16:20:37Z",
+      "content": "As Prime Day enters its final hours this Monday, Amazon continues to offer an exceptional deal on AirTags that shoppers won’t want to overlook. These popular tracking devices are currently available … [+1699 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "Kids with Android phones will be able to use Google Wallet tap-to-pay soon",
+      "description": "Google will soon let children use Google Wallet and its tap-to-pay feature on Android phones, which debuted earlier this year with the Fitbit Ace LTE.",
+      "url": "https://www.theverge.com/2024/10/30/24283825/android-phones-google-wallet-tap-to-pay-fitbit-ace-lte",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/a1UuqmTXeWu_sDyVAVipeGpIQ0s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016885/STK093_Google_04.jpg",
+      "publishedAt": "2024-10-30T19:54:12Z",
+      "content": "Kids with Android phones will be able to use Google Wallet tap-to-pay soon\r\nKids with Android phones will be able to use Google Wallet tap-to-pay soon\r\n / Like Apple Pay, Google Wallet will let kids … [+1595 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Watch Apple’s M4 MacBook Pro announcement video",
+      "description": "Apple’s new MacBook Pros with M4 chips are here. The announcement comes in a new video segment following the new iMac and Mac Mini ones this week.",
+      "url": "https://www.theverge.com/2024/10/30/24283485/apple-macbook-pro-m4-max-announcement-watch-video",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2ndj8uSu0Gz4g0x04FNjOwzrpQ0=/0x0:2880x1920/1200x628/filters:focal(1440x960:1441x961)/cdn.vox-cdn.com/uploads/chorus_asset/file/25706574/Screenshot_2024_10_30_at_11.16.40_AM.jpeg",
+      "publishedAt": "2024-10-30T15:20:24Z",
+      "content": "Watch Apples M4 MacBook Pro announcement video\r\nWatch Apples M4 MacBook Pro announcement video\r\n / Apples segmented hardware announcements continue this week with a new video featuring the new M4 Max… [+2155 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Apple’s Vision Pro leader, Dan Riccio, is retiring",
+      "description": "Dan Riccio, who heads the Vision Pro and oversaw much of Apple’s popular new hardware from 2012 to 2021, is reportedly retiring this month after 26 years.",
+      "url": "https://www.theverge.com/2024/10/9/24266321/apple-dan-riccio-retiring",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Ed7T1NHwsYw7ALRGvqF9Z9pWj74=/0x0:1960x1362/1200x628/filters:focal(980x681:981x682)/cdn.vox-cdn.com/uploads/chorus_asset/file/22259288/Apple_dan_riccio_begins_a_new_chapter_at_apple_01252020_big.jpg.large_2x.jpg",
+      "publishedAt": "2024-10-09T19:20:47Z",
+      "content": "Apples Vision Pro leader, Dan Riccio, is retiring\r\nApples Vision Pro leader, Dan Riccio, is retiring\r\n / Dan Riccio transitioned from being Apples SVP of hardware engineering in 2021 to take over a n… [+1027 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Welch",
+      "title": "Was this the sickest iPod?",
+      "description": "The iPod Mini didn’t last long — but the tiny MP3 player showed exactly how big Apple’s idea could be.",
+      "url": "https://www.theverge.com/c/24238184/apple-ipod-mini-2004-retro-tech-steve-jobs",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_DXJ1alBkKbOBrWYa3iBggZ5G_4=/138x217:1902x1143/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25608376/CHORUS_LEDE.jpg",
+      "publishedAt": "2024-10-17T13:00:00Z",
+      "content": "I never owned an iPod Mini. Even as a college freshman back at the time of its introduction, I was already more of a full-size iPod kind of nerd. Mine was the third-gen model with the backlit buttons… [+4980 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Cheryl Eddy",
+      "title": "Severance Is Already Plotting Out Its Third Season",
+      "description": "With season two on the way, the team behind the sci-fi workplace mystery is hoping Apple TV+ will be game for even more.",
+      "url": "https://gizmodo.com/severance-is-already-plotting-out-its-third-season-2000511119",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/severance_season_1.jpg",
+      "publishedAt": "2024-10-11T16:30:15Z",
+      "content": "One of the most anticipated second seasons in recent memory has got to be Severance: not only has it been excruciatingly long since season one premiered (February 2022) and became an instant fan favo… [+3427 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Mike Fazioli",
+      "title": "The 2nd Gen Apple Watch SE Is a Prime Candidate for Deal of the Day at Just $200",
+      "description": "This Prime Day Big Deal has dropped the price of the Apple Watch SE to the lowest point we've ever seen.",
+      "url": "https://gizmodo.com/the-2nd-gen-apple-watch-se-is-a-prime-candidate-for-deal-of-the-day-at-just-200-2000509095",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Apple-Watch-SE-2nd-Gen.jpg",
+      "publishedAt": "2024-10-08T18:02:44Z",
+      "content": "Even notoriously sale-shy Apple isn’t immune from Amazon’s Prime Big Deal Days blowout event. The Apple Watch SE (2nd Gen) is now at its lowest price yet just $200 at Amazon, down 28% from its retail… [+1977 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Dua Rashid",
+      "title": "AirPods Pro 2 Hearing Health Features Hands-On",
+      "description": "The Apple AirPods Pro 2 hearing health features are finally live. Here's how to accessing the features as well as some troubleshooting tips, and what the results mean.",
+      "url": "https://gizmodo.com/airpods-pro-2-hearing-health-features-hands-on-2000519730",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/airpods-pro-2-2.jpg",
+      "publishedAt": "2024-11-05T11:30:00Z",
+      "content": "While the latest AirPods 4 unveiled at Apples Glowtime event didnt really impress us, another audio-related announcement did: the AirPods Pros hearing health update. Apple announced at its latest eve… [+5579 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "We’re Finally Going to See App Makers Advertise Better Prices Outside of Play Store",
+      "description": "While Google’s Epic loss will require Android to open up to third party app stores beyond Play Store, Google said it can’t be a monopoly since Apple exists.",
+      "url": "https://gizmodo.com/were-finally-going-to-see-app-makers-advertise-better-prices-outside-of-play-store-2000509004",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Google-Play-Store-Collections-1-e1728393645249.jpg",
+      "publishedAt": "2024-10-08T13:55:56Z",
+      "content": "Googles Play Store is a monopoly, according to the U.S. courts, so its time for the defacto Android app store to truly open up to competition. On Monday, a judge ruled the tech giant needs to immedia… [+3830 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "iPad Mini Is Back, and Apple Says It’s Primed for AI",
+      "description": "The teeny tiny iPad Mini may still be barely bigger than an iPhone, but this time it’s packing an A17 Pro chip plus support for Apple Pencil Pro.",
+      "url": "https://gizmodo.com/ipad-mini-is-back-and-apple-says-its-primed-for-ai-2000511986",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Apple-iPad-mini-Apple-Pencil-Pro-241015-2.jpg",
+      "publishedAt": "2024-10-15T14:21:18Z",
+      "content": "You already have your giant iPhones with the iPhone 16 Pro Max covered, but what if you wanted all that juicy AI goodness with a little more screen? Apple debuted its new iPad mini on Tuesday, showin… [+2487 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Apple iPad Mini 2024 Review in Progress: The Small Screen May Be the Perfect Size for iPad",
+      "description": "The iPad Mini 7th-gen is built for Apple Intelligence, but it’s still a better realization of Apple’s tablets for most users.",
+      "url": "https://gizmodo.com/apple-ipad-mini-2024-review-in-progress-the-small-screen-may-be-the-perfect-size-for-ipad-2000514926",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/ipad-mini-2024-2.jpg",
+      "publishedAt": "2024-10-22T13:36:54Z",
+      "content": "More than ever before, the 7th-gen iPad mini splits the difference between Apples smartphones and tablets. You wont slip it into your pocket, but it’s the perfect size for a small bag. You wont be dr… [+8342 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Cheryl Eddy",
+      "title": "Severance‘s First Season 2 Teaser Welcomes You Back to Work",
+      "description": "Adam Scott's Mark (or is it Marcus now?) returns to Lumon Industries in our latest look at the Apple TV+ series' much-anticipated second season.",
+      "url": "https://gizmodo.com/severances-first-season-2-teaser-welcomes-you-back-to-work-2000515387",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Severance_Photo.jpg",
+      "publishedAt": "2024-10-23T13:00:40Z",
+      "content": "The first teaser for Severance season two is disorienting, befuddling, and explains next to nothing about what’s to comewhich is exactly what we want to see in any and all marketing for Apple TV+’s o… [+2402 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Dua Rashid",
+      "title": "Samsung Teases Its Own Headset to Rival the Apple Vision Pro in 2025",
+      "description": "The headset will likely be priced between $1,000 and $1,500 competing with both the Apple Vision Pro and the Meta Quest 3.",
+      "url": "https://gizmodo.com/samsung-teases-its-own-headset-to-rival-the-apple-vision-pro-in-2025-2000519410",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/apple-vision-pro.jpg",
+      "publishedAt": "2024-11-01T17:39:39Z",
+      "content": "Samsung has been toying with the idea of releasing its own XR (extended reality) headset for around a year. In a recently released earnings call, it said it aims to “improve connectivity among produc… [+2333 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Sherri L Smith",
+      "title": "Apple iPhone 16 vs Google Pixel 9: A Base Model Brawl",
+      "description": "Battery life, camera, and AI features are key in a base model battle between the Apple iPhone 16 and Google Pixel 9.",
+      "url": "https://gizmodo.com/apple-iphone-16-vs-google-pixel-9-a-base-model-brawl-2000513276",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/iphone-16-vs-pixel-9-performance-e1729525796556.jpg",
+      "publishedAt": "2024-10-22T10:30:38Z",
+      "content": "Its face-off time, and you know what that means. Two smartphones go in, and one comes out the victor with plenty of bragging rights. This time around, were looking at a pair of entry-level smartphone… [+17150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joe Tilleli",
+      "title": "The Prime Day Price of the Apple MacBook Air Hasn’t Gone Back Up Yet",
+      "description": "Get the 25% off Apple 2022 MacBook Air laptop with M2 chip for its Prime Day price before they remember to change it back.",
+      "url": "https://gizmodo.com/the-prime-day-price-of-the-apple-macbook-air-hasnt-gone-back-up-yet-2000510765",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MAcBookAirM2.jpg",
+      "publishedAt": "2024-10-10T20:30:38Z",
+      "content": "The October Prime Days we’ve been waiting months for has already ended. These two days of deals took place earlier this week on October 8 and October 9. Now here we are on October 10, but it looks li… [+2214 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Brittany Vincent",
+      "title": "Amazon Offers 30% off the Apple Pencil Pro to Celebrate New iPad Mini Launch",
+      "description": "Don't miss out on this chance to add an Apple Pencil Pro to your new iPad setup for a great deal at Amazon.",
+      "url": "https://gizmodo.com/amazon-offers-30-off-the-apple-pencil-pro-to-celebrate-new-ipad-mini-launch-2000512100",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/apple-pencil.jpg",
+      "publishedAt": "2024-10-15T18:14:45Z",
+      "content": "Apple unveils new iPad mini with support for pencil pro, and Amazon offers the pencil pro at just $90 (30% off) now. If you’re an artist, student, or just someone looking to take your iPad experience… [+2162 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Apple Reveals the New 2024 iMac: Familiar on the Outside, but With New Power Inside",
+      "description": "Apple showed off a new 24-inch iMac with a variety of color options, though there's still no option for a M4 Pro chip.",
+      "url": "https://gizmodo.com/apple-reveals-the-new-2024-imac-familiar-on-the-outside-but-with-new-power-inside-2000517276",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Apple-iMac-M4-Photoshop.jpg",
+      "publishedAt": "2024-10-28T15:15:08Z",
+      "content": "We werent totally thrilled with Apples 2023 iMac refresh that came stock with the companys newfangled M3 silicon. Still, the Cupertino, California tech giant is ready to get into the ring again with … [+3071 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-30T11:17:12Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-30T15:00:55Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Apple’s new AirPlay options for macOS add a little more privacy",
+      "description": "In macOS Sequoia 15.2, you can share a single window or app over AirPlay instead of your entire screen.",
+      "url": "https://www.theverge.com/2024/11/7/24290301/apple-macos-screen-mirroring-airplay-single-window",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/u5PTtiRI_zoLyfdEQNo4BerZR1Q=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25718396/247372_MacBook_Pro_M4_ADiBenedetto_0035.jpg",
+      "publishedAt": "2024-11-07T14:57:39Z",
+      "content": "Apples new AirPlay options for macOS add a little more privacy\r\nApples new AirPlay options for macOS add a little more privacy\r\n / The macOS Sequoia 15.2 Beta update changes AirPlay, so you dont have… [+1466 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Apple Reportedly Launching a Separate Game App Store to Fully Stick It to Epic",
+      "description": "A new report suggests Apple’s gaming fixation is focusing on an app store separate to rival the Xbox app.",
+      "url": "https://gizmodo.com/apple-reportedly-launching-a-separate-game-app-store-to-fully-stick-it-to-epic-2000515490",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Apple-iPhone-15-Pro-Gaming-2.jpg",
+      "publishedAt": "2024-10-23T13:56:01Z",
+      "content": "It’s often said that imitation is the sincerest form of flattery. If that’s the case, Microsoft and Epic should feel very flattered right now. A new report suggests Apple is going all in on its own d… [+2927 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Mike Fazioli",
+      "title": "Pre-Order the New Apple iPad Mini 7 at a Discounted Price, No Joke",
+      "description": "Apple's groundbreaking new tablet is going to be one of the hottest holiday buys of the year, so get yours while you can.",
+      "url": "https://gizmodo.com/pre-order-the-new-apple-ipad-mini-7-at-a-discounted-price-no-joke-2000512555",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/iPad-Mini-7.jpeg",
+      "publishedAt": "2024-10-16T16:54:19Z",
+      "content": "Shopping prognosticators agree that one of the hottest Black Friday/Cyber Monday buys of the year will be on the new Apple iPad Mini the first one that’s built for Apple Intelligence. Pre-orders have… [+2269 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-31T17:30:49Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Hartley Charlton",
+      "title": "Apple Watch SE vs. Apple Watch Series 10 Buyer's Guide",
+      "description": "The Apple Watch SE starts at $249, providing an accessible, low-cost option for those interested in owning an Apple smartwatch. The company also now offers the Apple Watch Series 10, which starts at $399, so what exactly do you get by spending an additional $…",
+      "url": "https://www.macrumors.com/guide/apple-watch-se-vs-series-10/",
+      "urlToImage": "https://images.macrumors.com/t/XxB0_YS17jVmCq7FpXXpRI7bOyU=/2500x/article-new/2024/10/Apple-Watch-Series-SE-vs-Series-10-Buyers-Guide.jpg",
+      "publishedAt": "2024-10-10T14:46:42Z",
+      "content": "The Apple Watch SE starts at $249, providing an accessible, low-cost option for those interested in owning an Apple smartwatch. The company also now offers the Apple Watch Series 10, which starts at … [+6962 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Brittany Vincent",
+      "title": "Apple iPad 9 Is Now Under $200, Lowest Price Ahead of Black Friday",
+      "description": "This iPad is one of the best you'll find in Apple's lineup, and you can get one for one of its lowest prices yet right now.",
+      "url": "https://gizmodo.com/apple-ipad-9-is-now-under-200-lowest-price-ahead-of-black-friday-2000517920",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/apple-ipad-9th-generation.jpg",
+      "publishedAt": "2024-10-29T16:14:26Z",
+      "content": "Time to upgrade your tablet? When it comes to portable tech, you can rarely do better than an iPad. Apple’s tablet lineup is well worth investing in, especially if you like to multitask or enjoy your… [+2142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "The Apple Vision Pro’s First ‘Immersive’ Movie Looks Incredible Due to Classic Filmmaking Techniques",
+      "description": "Apple's first directed short ‘immersive’ movie for Vision Pro, Submerged, shows spatial movies may take more effort than your typical film.",
+      "url": "https://gizmodo.com/the-apple-vision-pros-first-immersive-movie-look-incredible-due-to-classic-filmmaking-techniques-2000510024",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Apple-Vision-Pro-immersive-video-Submerged-2.jpg",
+      "publishedAt": "2024-10-10T16:00:35Z",
+      "content": "The one thing every current Apple Vision Pro owner demands isto put it simplymore. That is more features and more content. The latest push from Apple to make good on the promise of its first spatial … [+7062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Dua Rashid",
+      "title": "Apple Plans to Go Retro With Its New Smart Home Display",
+      "description": "Picture a HomePod with a display as big as two iPhones placed side by side.",
+      "url": "https://gizmodo.com/apple-plans-to-go-retro-with-its-new-smart-home-display-2000517260",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/iMac-g4.jpg",
+      "publishedAt": "2024-10-28T16:16:30Z",
+      "content": "Apple has reportedly been working on a new smart home device following its not-so-successful range of current offerings, trailing Google’s and Amazon’s alternatives. It’s toying with the idea of givi… [+2178 chars]"
+    }
+  ]
+}
